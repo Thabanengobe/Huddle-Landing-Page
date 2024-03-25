@@ -1,0 +1,15 @@
+
+body{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url('./images/bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+}
+
+.register{
+    background-color: white;
+}
+.register:hover{
+    background-color: hsl(300, 60%, 71%);
+}

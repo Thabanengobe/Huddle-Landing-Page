@@ -1,0 +1,21 @@
+@media (max-width: 900px){
+    body{
+        background-image: url('./images/bg-mobile.svg');
+    }
+    .handdle-content{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .heading{
+        font-size: 1.5em;
+        line-height: 1em;
+    }
+    .register-link{
+        align-self: center;
+    }
+    footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1.5em;
+    }
+}
