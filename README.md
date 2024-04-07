@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://your-solution-url.com)
+- Live Site URL: [Github pages](https://thabanengobe.github.io/Huddle-Landing-Page/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@thabanengobe](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Thabanengobe](https://www.frontendmentor.io/profile/Thabanengobe)
 
