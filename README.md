@@ -16,7 +16,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://your-solution-url.com)
 - Live Site URL: [Github pages](https://thabanengobe.github.io/Huddle-Landing-Page/)
 
 ## My process
