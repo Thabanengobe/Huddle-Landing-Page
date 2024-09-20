@@ -13,3 +13,8 @@ body{
 .register:hover{
     background-color: hsl(300, 60%, 71%);
 }
+
+.attribution a{
+    color: rgba(255, 166, 0, 0.705);
+
+}

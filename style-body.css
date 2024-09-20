@@ -9,22 +9,22 @@ body{
     margin: 2em;
 }
 
+
 .handdle-content{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    margin-top: 2.5em;
+    display: flex;
+    min-height: 80vh;
+    align-items: center;
     gap: 2em;
 }
 .about-haddle{
     line-height: 1.5em;
     margin-bottom: 2em;
-    text-align:start;
 }
 
 .heading{
     font-family: 'Poppins';
     font-weight: 600;
-    font-size: 2.5rem;
+    font-size: 3rem;
     line-height: 1.5em;
 }
 
@@ -51,4 +51,13 @@ body{
 .haddle{
     display: flex;
     flex-direction: column;
+    gap: 1.5em;
+    width: 50%;
+}
+
+.attribution{
+    text-align: center;
+}
+.logo{
+    margin-bottom: 1em;
 }

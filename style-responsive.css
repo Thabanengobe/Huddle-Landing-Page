@@ -3,15 +3,27 @@
         background-image: url('./images/bg-mobile.svg');
     }
     .handdle-content{
-        grid-template-columns: repeat(1, 1fr);
+        flex-direction: column;
+        align-content: center;
     }
     .register-link{
         align-self: center;
+    }
+    .haddle{
+        width: 100%;
+    }
+    .heading{
+        font-size: 2em;
     }
     footer{
         display: flex;
         flex-direction: column;
         align-items: center;
         gap: 1.5em;
+    }
+    .attribution{
+        margin-top: 2em;
+        font-size: .6em;
+        justify-self: flex-end;
     }
 }
