@@ -52,7 +52,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 1.5em;
-    width: 50%;
+    width: 40%;
 }
 
 .attribution{
